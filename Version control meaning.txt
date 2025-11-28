@@ -1,0 +1,1 @@
+Version control means having a safe and organized way to keep track of changes in my work. It helps me save different versions of my project so I can go back if I make a mistake, and it makes group work easier because everyone can work on the same files without messing each other up.
